@@ -1,0 +1,15 @@
+.navbar {
+    padding: 15px !important;
+    margin-bottom: 25px;
+    background-color: black;
+}
+
+.row{
+    width: 110% !important;
+}
+
+.form-control{
+    box-shadow: 0 0 15px blue;
+}
+
+

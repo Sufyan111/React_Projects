@@ -1,0 +1,8 @@
+.card{
+    box-shadow: 0 0 12px blue;
+}
+
+.card-body-pro{
+    display: grid ;
+    padding: 16px;
+}

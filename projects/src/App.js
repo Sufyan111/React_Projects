@@ -1,10 +1,11 @@
-import './App.css';
-import {CardList} from './Components/CardMapping/CardList'
+// import {Landing} from './Components/Dictionary/Landing'
+import {Landing} from './Components/Dictionary/Landing/Landing'
 
 function App() {
   return (
     <div>
-        <CardList />
+        <Landing />
+        
     </div>
   );
 }

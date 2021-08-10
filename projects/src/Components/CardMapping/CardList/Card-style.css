@@ -4,7 +4,7 @@
 }
 
 .col-md-4{
-    margin: auto;
+    /* margin: auto; */
     display: flex;
     justify-content: center;
 }

@@ -1,0 +1,19 @@
+*{
+    /* text-align: left; */
+    align-items: center;
+    margin: 0;
+}
+
+.form-control{
+    margin: 15px ;
+}
+
+.card{
+    box-shadow: 0 0 10px black !important;
+    padding: 15px;
+    margin: 15px;
+}
+
+.row{
+    text-align: center;
+}
